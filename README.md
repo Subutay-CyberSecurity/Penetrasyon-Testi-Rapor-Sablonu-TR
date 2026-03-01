@@ -1,4 +1,19 @@
 # 🛡️ Penetrasyon Testi Rapor Şablonu (TR)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OP_hANUAW-Y" target="_blank">
+    <img src="https://img.youtube.com/vi/OP_hANUAW-Y/maxresdefault.jpg" 
+         alt="Penetrasyon Testi Raporu Nasıl Yazılır?" 
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+  🎥 <b>Video Rehberi:</b> Penetrasyon Testi Raporu Nasıl Yazılır? (Adım Adım Anlatım)
+</p>
+
+---
+
+Bu depo, sızma testi (penetrasyon testi) sonuçlarının profesyonel ve standartlara uygun bir şekilde raporlanması için hazırlanmış, **Türkçe** temel bir şablon sunar. Şablon, hem teknik ekiplerin hem de yönetim kademesinin ihtiyaç duyduğu bilgileri net ve anlaşılır bir formatta sunmayı amaçlamaktadır.
 
 Bu depo, sızma testi (penetrasyon testi) sonuçlarının profesyonel ve standartlara uygun bir şekilde raporlanması için hazırlanmış, **Türkçe** temel bir şablon sunar. Şablon, hem teknik ekiplerin hem de yönetim kademesinin ihtiyaç duyduğu bilgileri net ve anlaşılır bir formatta sunmayı amaçlamaktadır.
 
